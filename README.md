@@ -11,6 +11,6 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-💻 Estou no 3° semestre de Sistemas da Informação na UFRA (Universidade Federal Rural da Amazônia), ainda estou estudando e aprimorando as minhas skills em front end.
+💻 Estou no 6° semestre de Sistemas da Informação na UFRA (Universidade Federal Rural da Amazônia), ainda estou estudando e aprimorando as minhas skills em front end.
 
 
